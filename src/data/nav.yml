@@ -1,0 +1,7 @@
+- title: Page 1
+  path: /page-1
+- title: Example
+  path: /example
+  pages:
+    - title: Page 2
+      path: /example/page-2
