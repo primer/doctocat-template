@@ -1,1 +1,1 @@
-# Doctocat Starter
+# Doctocat Template
