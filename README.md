@@ -5,12 +5,12 @@
 
 1. Install dependencies
 
-`npm i`
+`yarn i`
 
 2. Build the site (this only needs to be done once)
 
-`npm run build`
+`yarn run build`
 
 3. Run the development server
 
-`npm run develop`
+`yarn run develop`
