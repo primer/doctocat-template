@@ -5,7 +5,7 @@
 
 1. Install dependencies
 
-`yarn i`
+`yarn`
 
 2. Build the site (this only needs to be done once)
 
