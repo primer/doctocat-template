@@ -5,7 +5,7 @@
   "scripts": {
     "develop": "gatsby develop",
     "build": "gatsby build",
-    "now-build": "npm run build"
+    "now-build": "yarn run build"
   },
   "dependencies": {
     "@primer/gatsby-theme-doctocat": "^0.23.0",
