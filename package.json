@@ -12,5 +12,9 @@
     "gatsby": "^2.32.13",
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-logical-assignment-operators": "^7.18.9",
+    "babel-preset-gatsby": "^2.20.0"
   }
 }
